@@ -1,0 +1,27 @@
+export const ENUMS = {
+  USER_TYPES: [
+    "student",
+    // "instructor",
+    "admin",
+    "manager",
+  ] as const,
+  DEVICE_TYPES: ["web", "android", "ios"] as const,
+  USER_STATUS: ["active", "blocked"] as const,
+  BUSINESS_STATUS: ["active", "inactive", "blocked", "pending", "deleted", "rejected"] as const,
+  NOTIFICATION_STATUS: ["on", "off", "mute"] as const,
+  LOCATION_STATUS: ["on", "off"] as const,
+  NOTIFICATION_TYPES: [
+    "message",
+    "payment",
+    "alert",
+    "system",
+    "reminder",
+    "invitation",
+    "info",
+    "conversation",
+  ] as const,
+  PRODUCT_CONDITION: ["new", "used"] as const,
+  PRODUCT_CATEGORY_TYPES: ["cpu", "gpu", "ram", "graphics-card", "motherboard", "micro-controllers", "other"] as const,
+  PRODUCT_SUB_TYPES: ["ddr4", "ddr5", "amd", "intel"] as const,
+  BUSINESS_INVENTORY_STATUS: ["active", "sold", "returned", "pending", "requested"] as const,
+};

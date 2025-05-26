@@ -1,0 +1,490 @@
+[
+  {
+    "slug": "the-power-of-accountability",
+    "duration": "1 Hrs",
+    "noOfHours":"4",
+    "title": "The Power of Accountability",
+    "instructor": "Claudia Pruitt",
+    "lessons": 10,
+    "rating": 4.8,
+    "price": "149.00",
+    "originalPrice": "180.00",
+    "isNew": true,
+    "imageUrl": "/img/Course/Course.png",
+    "courseDetails": {
+      "startDate": "5 Hrs 20 Min",
+      "enrolled": 100,
+      "lectures": 50,
+      "skillLevel": "Basic",
+      "language": "English",
+      "quizzes": 10,
+      "certificate": "Yes"
+    },
+    "description": "A complete guide to Administrative Office Procedures course. Learn from scratch and master the skill.",
+    "learningObjectives": [
+      "Become an advanced, confident, and modern JavaScript developer from scratch.",
+      "Use the Jupyter Notebook Environment. JavaScript developer from scratch.",
+      "Have an intermediate skill level of Python programming.",
+      "Use the pandas module with Python to create and structure data.",
+      "Have a portfolio of various data analysis projects.",
+      "Have a portfolio of various data analysis projects.",
+      "Use the numpy library to create and manipulate arrays.",
+      "Create data visualizations using matplotlib and the seaborn."
+    ],
+    "requirements": [
+      "No prior experience required — beginners welcome",
+      "Familiarity with office software (Microsoft Word, Excel, Outlook or Google Workspace) is a plus, but not mandatory",
+      "A willingness to learn and apply professional administrative practices"
+    ],
+    "sections": [
+      {
+        "title": "Introduction to Course",
+        "stats": "3 lectures • 1hr 30 min",
+        "icon": "https://cdn.builder.io/api/v1/image/assets/TEMP/62b824286fd0acfa901dd05cd9fdd8f82eedcc53?placeholderIfAbsent=true",
+        "lectures": [
+          {
+            "title": "Module 1: Introduction to Office Administration",
+            "duration": "30:00",
+            "type": "video"
+          },
+          {
+            "title": "Module 2: Communication in the Workplace",
+            "duration": "30:00",
+            "type": "video"
+          },
+          {
+            "title": "Module 3: Time Management & Organization",
+            "duration": "30:00",
+            "type": "video"
+          },
+          {
+            "title": "Module 4: Time Management & Organization",
+            "duration": "30:00",
+            "type": "book"
+          }
+        ]
+      },
+      {
+        "title": "Course Fundamentals",
+        "stats": "6 lectures • 2hr 30 min",
+        "icon": "https://cdn.builder.io/api/v1/image/assets/TEMP/4a9582ecadffb53b1570073486c3f4e6e7eb3ff4?placeholderIfAbsent=true",
+        "lectures": [
+          {
+            "title": "Module 1: Core Administrative Skills",
+            "duration": "45:00",
+            "type": "video"
+          },
+          {
+            "title": "Module 2: Effective Communication Techniques",
+            "duration": "45:00",
+            "type": "video"
+          }
+        ]
+      },
+      {
+        "title": "You can develop skill and setup",
+        "stats": "6 lectures • 2hr 30 min",
+        "icon": "https://cdn.builder.io/api/v1/image/assets/TEMP/4a9582ecadffb53b1570073486c3f4e6e7eb3ff4?placeholderIfAbsent=true",
+        "lectures": [
+          {
+            "title": "Module 1: Core Administrative Skills",
+            "duration": "45:00",
+            "type": "video"
+          },
+          {
+            "title": "Module 2: Effective Communication Techniques",
+            "duration": "45:00",
+            "type": "video"
+          }
+        ]
+      },  {
+        "title": "You can develop skill and setup",
+        "stats": "6 lectures • 2hr 30 min",
+        "icon": "https://cdn.builder.io/api/v1/image/assets/TEMP/4a9582ecadffb53b1570073486c3f4e6e7eb3ff4?placeholderIfAbsent=true",
+        "lectures": [
+          {
+            "title": "Module 1: Core Administrative Skills",
+            "duration": "45:00",
+            "type": "video"
+          },
+          {
+            "title": "Module 2: Effective Communication Techniques",
+            "duration": "45:00",
+            "type": "video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "culture-of-ownership",
+    "duration": "2 Hrs",
+    "noOfHours":"5",
+    "title": "Culture of Ownership",
+    "instructor": "Claudia Pruitt",
+    "lessons": 10,
+    "rating": 4.8,
+    "price": "149.00",
+    "originalPrice": "180.00",
+    "isNew": true,
+    "imageUrl": "/img/Course/Course2.png",
+    "courseDetails": {
+      "startDate": "6 Hrs 10 Min",
+      "enrolled": 85,
+      "lectures": 45,
+      "skillLevel": "Intermediate",
+      "language": "English",
+      "quizzes": 8,
+      "certificate": "Yes"
+    },
+    "description": "Learn how to create a culture of ownership in your workplace.",
+    "learningObjectives": [
+      "Understand the principles of ownership culture",
+      "Develop leadership skills to foster accountability",
+      "Implement strategies for team engagement",
+      "Create measurable outcomes for cultural change"
+    ],
+    "requirements": [
+      "Basic management experience recommended",
+      "Openness to organizational change",
+      "Willingness to implement new strategies"
+    ],
+    "sections": [
+      {
+        "title": "Introduction to Ownership Culture",
+        "stats": "4 lectures • 2hr",
+        "icon": "https://cdn.builder.io/api/v1/image/assets/TEMP/62b824286fd0acfa901dd05cd9fdd8f82eedcc53?placeholderIfAbsent=true",
+        "lectures": [
+          {
+            "title": "Module 1: Defining Ownership",
+            "duration": "30:00",
+            "type": "video"
+          },
+          {
+            "title": "Module 2: Benefits of Ownership Culture",
+            "duration": "30:00",
+            "type": "video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "culture-of-ownership2",
+    "duration": "2 Hrs",
+    "noOfHours":"2",
+    "title": "Culture of Ownership2",
+    "instructor": "Claudia Pruitt",
+    "lessons": 10,
+    "rating": 4.8,
+    "price": "149.00",
+    "originalPrice": "180.00",
+    "isNew": false,
+    "imageUrl": "/img/Course/Course2.png",
+    "courseDetails": {
+      "startDate": "6 Hrs 10 Min",
+      "enrolled": 85,
+      "lectures": 45,
+      "skillLevel": "Intermediate",
+      "language": "English",
+      "quizzes": 8,
+      "certificate": "Yes"
+    },
+    "description": "Learn how to create a culture of ownership in your workplace.",
+    "learningObjectives": [
+      "Understand the principles of ownership culture",
+      "Develop leadership skills to foster accountability",
+      "Implement strategies for team engagement",
+      "Create measurable outcomes for cultural change"
+    ],
+    "requirements": [
+      "Basic management experience recommended",
+      "Openness to organizational change",
+      "Willingness to implement new strategies"
+    ],
+    "sections": [
+      {
+        "title": "Introduction to Ownership Culture",
+        "stats": "4 lectures • 2hr",
+        "icon": "https://cdn.builder.io/api/v1/image/assets/TEMP/62b824286fd0acfa901dd05cd9fdd8f82eedcc53?placeholderIfAbsent=true",
+        "lectures": [
+          {
+            "title": "Module 1: Defining Ownership",
+            "duration": "30:00",
+            "type": "video"
+          },
+          {
+            "title": "Module 2: Benefits of Ownership Culture",
+            "duration": "30:00",
+            "type": "video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "culture-of-ownership3",
+    "duration": "2 Hrs",
+    "noOfHours":"2",
+    "title": "Culture of Ownership3",
+    "instructor": "Claudia Pruitt",
+    "lessons": 10,
+    "rating": 4.8,
+    "price": "149.00",
+    "originalPrice": "180.00",
+    "isNew": false,
+    "imageUrl": "/img/Course/Course2.png",
+    "courseDetails": {
+      "startDate": "6 Hrs 10 Min",
+      "enrolled": 85,
+      "lectures": 45,
+      "skillLevel": "Intermediate",
+      "language": "English",
+      "quizzes": 8,
+      "certificate": "Yes"
+    },
+    "description": "Learn how to create a culture of ownership in your workplace.",
+    "learningObjectives": [
+      "Understand the principles of ownership culture",
+      "Develop leadership skills to foster accountability",
+      "Implement strategies for team engagement",
+      "Create measurable outcomes for cultural change"
+    ],
+    "requirements": [
+      "Basic management experience recommended",
+      "Openness to organizational change",
+      "Willingness to implement new strategies"
+    ],
+    "sections": [
+      {
+        "title": "Introduction to Ownership Culture",
+        "stats": "4 lectures • 2hr",
+        "icon": "https://cdn.builder.io/api/v1/image/assets/TEMP/62b824286fd0acfa901dd05cd9fdd8f82eedcc53?placeholderIfAbsent=true",
+        "lectures": [
+          {
+            "title": "Module 1: Defining Ownership",
+            "duration": "30:00",
+            "type": "video"
+          },
+          {
+            "title": "Module 2: Benefits of Ownership Culture",
+            "duration": "30:00",
+            "type": "video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "culture-of-ownership4",
+    "duration": "2 Hrs",
+    "noOfHours":"2",
+    "title": "Culture of Ownership4",
+    "instructor": "Claudia Pruitt",
+    "lessons": 10,
+    "rating": 4.8,
+    "price": "149.00",
+    "originalPrice": "180.00",
+    "isNew": false,
+    "imageUrl": "/img/Course/Course2.png",
+    "courseDetails": {
+      "startDate": "6 Hrs 10 Min",
+      "enrolled": 85,
+      "lectures": 45,
+      "skillLevel": "Intermediate",
+      "language": "English",
+      "quizzes": 8,
+      "certificate": "Yes"
+    },
+    "description": "Learn how to create a culture of ownership in your workplace.",
+    "learningObjectives": [
+      "Understand the principles of ownership culture",
+      "Develop leadership skills to foster accountability",
+      "Implement strategies for team engagement",
+      "Create measurable outcomes for cultural change"
+    ],
+    "requirements": [
+      "Basic management experience recommended",
+      "Openness to organizational change",
+      "Willingness to implement new strategies"
+    ],
+    "sections": [
+      {
+        "title": "Introduction to Ownership Culture",
+        "stats": "4 lectures • 2hr",
+        "icon": "https://cdn.builder.io/api/v1/image/assets/TEMP/62b824286fd0acfa901dd05cd9fdd8f82eedcc53?placeholderIfAbsent=true",
+        "lectures": [
+          {
+            "title": "Module 1: Defining Ownership",
+            "duration": "30:00",
+            "type": "video"
+          },
+          {
+            "title": "Module 2: Benefits of Ownership Culture",
+            "duration": "30:00",
+            "type": "video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "culture-of-ownership5",
+    "duration": "2 Hrs",
+    "noOfHours":"2",
+    "title": "Culture of Ownership5",
+    "instructor": "Claudia Pruitt",
+    "lessons": 10,
+    "rating": 4.8,
+    "price": "149.00",
+    "originalPrice": "180.00",
+    "isNew": false,
+    "imageUrl": "/img/Course/Course2.png",
+    "courseDetails": {
+      "startDate": "6 Hrs 10 Min",
+      "enrolled": 85,
+      "lectures": 45,
+      "skillLevel": "Intermediate",
+      "language": "English",
+      "quizzes": 8,
+      "certificate": "Yes"
+    },
+    "description": "Learn how to create a culture of ownership in your workplace.",
+    "learningObjectives": [
+      "Understand the principles of ownership culture",
+      "Develop leadership skills to foster accountability",
+      "Implement strategies for team engagement",
+      "Create measurable outcomes for cultural change"
+    ],
+    "requirements": [
+      "Basic management experience recommended",
+      "Openness to organizational change",
+      "Willingness to implement new strategies"
+    ],
+    "sections": [
+      {
+        "title": "Introduction to Ownership Culture",
+        "stats": "4 lectures • 2hr",
+        "icon": "https://cdn.builder.io/api/v1/image/assets/TEMP/62b824286fd0acfa901dd05cd9fdd8f82eedcc53?placeholderIfAbsent=true",
+        "lectures": [
+          {
+            "title": "Module 1: Defining Ownership",
+            "duration": "30:00",
+            "type": "video"
+          },
+          {
+            "title": "Module 2: Benefits of Ownership Culture",
+            "duration": "30:00",
+            "type": "video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "culture-of-ownership6",
+    "duration": "2 Hrs",
+    "noOfHours":"2",
+    "title": "Culture of Ownership6",
+    "instructor": "Claudia Pruitt",
+    "lessons": 10,
+    "rating": 4.8,
+    "price": "149.00",
+    "originalPrice": "180.00",
+    "isNew": false,
+    "imageUrl": "/img/Course/Course2.png",
+    "courseDetails": {
+      "startDate": "6 Hrs 10 Min",
+      "enrolled": 85,
+      "lectures": 45,
+      "skillLevel": "Intermediate",
+      "language": "English",
+      "quizzes": 8,
+      "certificate": "Yes"
+    },
+    "description": "Learn how to create a culture of ownership in your workplace.",
+    "learningObjectives": [
+      "Understand the principles of ownership culture",
+      "Develop leadership skills to foster accountability",
+      "Implement strategies for team engagement",
+      "Create measurable outcomes for cultural change"
+    ],
+    "requirements": [
+      "Basic management experience recommended",
+      "Openness to organizational change",
+      "Willingness to implement new strategies"
+    ],
+    "sections": [
+      {
+        "title": "Introduction to Ownership Culture",
+        "stats": "4 lectures • 2hr",
+        "icon": "https://cdn.builder.io/api/v1/image/assets/TEMP/62b824286fd0acfa901dd05cd9fdd8f82eedcc53?placeholderIfAbsent=true",
+        "lectures": [
+          {
+            "title": "Module 1: Defining Ownership",
+            "duration": "30:00",
+            "type": "video"
+          },
+          {
+            "title": "Module 2: Benefits of Ownership Culture",
+            "duration": "30:00",
+            "type": "video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "culture-of-ownership7",
+    "duration": "2 Hrs",
+    "noOfHours":"2",
+    "title": "Culture of Ownership7",
+    "instructor": "Claudia Pruitt",
+    "lessons": 10,
+    "rating": 4.8,
+    "price": "149.00",
+    "originalPrice": "180.00",
+    "isNew": false,
+    "imageUrl": "/img/Course/Course2.png",
+    "courseDetails": {
+      "startDate": "6 Hrs 10 Min",
+      "enrolled": 85,
+      "lectures": 45,
+      "skillLevel": "Intermediate",
+      "language": "English",
+      "quizzes": 8,
+      "certificate": "Yes"
+    },
+    "description": "Learn how to create a culture of ownership in your workplace.",
+    "learningObjectives": [
+      "Understand the principles of ownership culture",
+      "Develop leadership skills to foster accountability",
+      "Implement strategies for team engagement",
+      "Create measurable outcomes for cultural change"
+    ],
+    "requirements": [
+      "Basic management experience recommended",
+      "Openness to organizational change",
+      "Willingness to implement new strategies"
+    ],
+    "sections": [
+      {
+        "title": "Introduction to Ownership Culture",
+        "stats": "4 lectures • 2hr",
+        "icon": "https://cdn.builder.io/api/v1/image/assets/TEMP/62b824286fd0acfa901dd05cd9fdd8f82eedcc53?placeholderIfAbsent=true",
+        "lectures": [
+          {
+            "title": "Module 1: Defining Ownership",
+            "duration": "30:00",
+            "type": "video"
+          },
+          {
+            "title": "Module 2: Benefits of Ownership Culture",
+            "duration": "30:00",
+            "type": "video"
+          }
+        ]
+      }
+    ]
+  }
+]
